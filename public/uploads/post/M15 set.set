@@ -1,0 +1,29 @@
+B=-Basic MM settings-
+StopLoss=20.0
+TakeProfit=0.0
+Target=2.0
+Slippage=100
+A=-Advanced MM settings-
+LotRise=true
+Lot=0.01
+Sns=-Scalping settings(less = less sensitive to trend)-
+Sensitivity=21.0
+S=-System settings. EntryMode(1=normal,2=reverse)-
+EntryMode=1
+TR=-TrailingStop settings-
+TrailingON=false
+ProfitTrailing=false
+Ts=If false TrStp=SL .If true TrlStep set 0
+Br=If your broker is 5 digits please enter counts x10 times more
+TrailingStop=0
+TrailingStep=0
+T=-Time settings-
+UseTradeTime=true
+TradeFrom=06:00
+TradeTo=20:10
+P=-Protections settings-
+MaxOpenOrders=10
+MaxLot=1.0
+O=-Other settings-
+TextON=true
+MagicNumber=101.0

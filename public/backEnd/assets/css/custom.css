@@ -1,0 +1,185 @@
+img{
+	width:100%;
+}
+.mrtp-8 {
+	margin: 8px 0;
+}
+.small-image{
+    width:80px;
+    height:80px;
+}
+form label {
+	display: inline-block;
+	margin-bottom: .5rem;
+	text-align: left !important;
+	width: 100%;
+	text-transform: capitalize;
+	font-weight: 600;
+}
+#myTable {
+	border: transparent;
+}
+.inline-radio {
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 16px;
+}
+.shortcut-btn {
+	text-align: right;
+}
+.shortcut-btn a {
+	background: #004DEB;
+	color: #fff !important;
+	padding: 6px 15px;
+	border-radius: 5px;
+}
+.custom-action button {
+	background: transparent;
+	color: #c3c3c3;
+	border-color: transparent;
+	display: block;
+	width: 100%;
+	font-size: 13px;
+	text-align: left;
+	padding: 0 0;
+}
+.edit-img{
+	width:100%;
+	border-radius: 50px;
+	margin-top: 15px;
+}
+.rank-content {
+    margin-top: 30px;
+}
+.rank-content thead {
+    background: #182139 !important;
+}
+.rank-employee-pic {
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+.winer-img {
+    position: absolute;
+    right: -13px;
+    top: -14px;
+    width: 40px;
+    height: 40px;
+}
+.rank-employee-pic img {
+    border-radius: 50%;
+    width:100%;
+    height: 100%;
+}
+
+.rank-content .progress-info {
+    margin-top: 9px;
+}
+.rank-content .progress-info p {
+    margin-bottom: 5px;
+}
+.rank-point {
+    margin-top: 30px;
+    text-align: center;
+}
+.rank-content .single-person-rank {
+    background: #182139;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+/*==========employee support message========*/
+.single-employee {
+	display: block;
+	overflow: hidden;
+	margin: 7px 0;
+	padding: 8px 4px;
+	background: rgba(0,0,0,0.1);
+	border-radius: 5px;
+	cursor: pointer;
+}
+.employee-list {
+	height: 470px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	scrollbar-width: thin;
+}
+.single-employee .image {
+	width: 40px;
+	float: left;
+	height: 40px;
+}
+.single-employee .image img {
+	border-radius: 50px;
+	height: 100%;
+	width: 100%;
+}
+.single-employee .information {
+	float: left;
+	margin-left: 10px;
+}
+.single-employee .information p {
+	margin: 0;
+}
+.single-employee .information i {
+	font-size: 10px;
+	color: green;
+}
+.cuser-message p {
+	margin: 0;
+}
+.cuser-message {
+    background: rgba(0,0,0,.1);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.employee-sms{
+    position: relative;
+    z-index: 1;
+}
+.employee-sms::after {
+    position: absolute;
+    left: -17px;
+    top: 0px;
+    background: rgba(0,0,0,.1);
+    content: "";
+    height: 30px;
+    width: 17px;
+    z-index: -1;
+    border-radius: 15px 0 0 50px;
+}
+.btn.btn-primary.support-btn {
+    padding: 17px 17px;
+}
+.support-sms-body {
+    height: 400px;
+    margin-bottom: 20px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+}
+.admin-sms{
+    position: relative;
+    z-index: 1;
+}
+.admin-sms::after {
+    position: absolute;
+    right: -17px;
+    top: 0px;
+    background: rgba(0,0,0,.1);
+    content: "";
+    height: 30px;
+    width: 17px;
+    z-index: -1;
+    border-radius: 0px 15px 50px 0;
+}
+.file {
+    margin-top: 12px;
+}
+.card-body.no-padding {
+	padding: 15px;
+}
+.cuser-logo img {
+	border-radius: 50%;
+}

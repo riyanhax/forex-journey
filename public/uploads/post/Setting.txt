@@ -1,0 +1,27 @@
+
+Title: Hunter
+  
+Currency Pairs: All         Timeframe: M15 
+
+CPU Load: Almost zero       Test Lot: Auto (Start with as Little as $100)
+               
+Open Hour = 22:00           Close Hour = 04:00 (Your Server Time)
+
+Best Result With: EUR/USD and GBP/USD
+
+Compatibility:	Only MT4
+
+
+
+
+For Help:
+
+taseer. (Skype)
+
+taseeer (Google Talk)
+
+taseeer@ymail.com (Yahoo! Messenger)
+
+taseer_@hotmail.com (Windows Live Messenger)
+
+

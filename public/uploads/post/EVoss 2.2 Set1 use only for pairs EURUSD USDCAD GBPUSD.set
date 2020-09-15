@@ -1,0 +1,12 @@
+TF_and_Pairs=M15: GBPCHF, GBPUSD, EURCHF, EURGBP, EURUSD, USDCAD
+BaseBalance=650.00000000
+TypeLot=0
+MLote=0.10000000
+MaxSpread=3.10000000
+GMT_offset=0
+Start_hours=21
+StopLoss=5.00000000
+space_minute=35
+profit_control=65.00000000
+profit_factor=5.00000000
+MagicNumber=111

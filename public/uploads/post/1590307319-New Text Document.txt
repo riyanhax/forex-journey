@@ -1,0 +1,11 @@
+Ta thik kaj korchi ami prblm ami bujhbo but apnader basic jinish e etto issues dekhe obak lagtese. Amr kache jegula prblm lagse shegula boltesi apni abar valo kore check kore dekhe niben. Karon eta apner o kaj .
+Issues I’m facing right now:
+1. Backend theke Marchant er parcel add kora jache na.
+2.Invoice er size thik nai.
+3.Customer k pay korle total amount theke paid amount minus hoi na.
+4. Backend theke Marchant er parcel edit kora jai na.
+5. Cod amount edit kora jai na backend theke.
+6. Cod er 1% Katbe eta te problem hoche.
+7. Parcel cancel hole j delivery charge
+Ta minus hobe sheta hoi na.
+8. Backend theke note update kora jai na.
